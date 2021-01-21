@@ -5,8 +5,10 @@ sometimes we need to implement such a construction on the site: we have several 
 
 ===================================
 
-we pass 3 arguments to the function.
+we pass 3 arguments to the function:
 
 q = the block where the buttons are located, by clicking on one of which, we open a specific block on the site
+
 w = these buttons
+
 e = content that is hidden / visible
